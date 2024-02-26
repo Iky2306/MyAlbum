@@ -7,6 +7,13 @@ h1 {
 }
 
 section > div {
-    background-image: url(assets/foto\ bg.jpg);
+    background-image: url(assets/foto\ bg2.jpg);
     background-size: cover;
+}
+
+section > div {
+    background-image: url(assets/foto\ bg2.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
 }
